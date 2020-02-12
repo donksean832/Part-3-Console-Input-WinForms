@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part 3 Console Input WinForms", "Part 3 Console Input WinForms.csproj", "{151A2D15-F3EA-4246-9FE7-7B8B9D6263EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151A2D15-F3EA-4246-9FE7-7B8B9D6263EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151A2D15-F3EA-4246-9FE7-7B8B9D6263EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151A2D15-F3EA-4246-9FE7-7B8B9D6263EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151A2D15-F3EA-4246-9FE7-7B8B9D6263EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6EEEF80-66F2-4191-A27B-0A46C18C11FE}
+	EndGlobalSection
+EndGlobal
