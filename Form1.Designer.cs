@@ -64,10 +64,8 @@
             this.IbMessage.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.IbMessage.Location = new System.Drawing.Point(258, 132);
             this.IbMessage.Name = "IbMessage";
-            this.IbMessage.Size = new System.Drawing.Size(93, 25);
+            this.IbMessage.Size = new System.Drawing.Size(0, 25);
             this.IbMessage.TabIndex = 2;
-            this.IbMessage.Text = "Message";
-           
             // 
             // txtInput
             // 
